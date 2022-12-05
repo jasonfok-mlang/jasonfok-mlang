@@ -7,8 +7,8 @@ I am a Software Engineer from m-Chinese Solution Limited, mainly forcus on syste
 - Design & Develop API for mLang environment
 - Research & Develop new functions for mLang
 - Manage & Maintain Cloud Server
-- Develop and maintain the backend & frontend of mLang platform
-- Project Management on all tech projects
+- Enhance & Improve the backend & frontend of current mLang platform
+- Project Management on tech projects
 - Planning for future development
 
 Company Github: [@m-Chinese-Solution-Limited](https://github.com/m-Chinese-Solution-Limited)
