@@ -1,19 +1,23 @@
-# Hi, I am Jason
+# Hi, I am Jason :wave:
 
-I am a Software Engineer from m-Chinese Solution Limited, mainly forcus on system design & backend development now.
+I am a Software Engineer from m-Chinese Solution Limited, mainly forcus on DevOps, Workflow, System Design, API and Full Stack development now.
 
 ## My Job Duty
-- Design new system architecture for mLang and related projects
-- Design Database Structure for mLang and related projects
-- Design & Develop API for mLang environment
-- Research & Develop new functions for mLang
-- Manage & Maintain Cloud Server
-- Enhance & Improve the backend & frontend of current mLang platform
-- Project Management on tech projects
-- Planning for future development
+- Architect new system infrastructure for mLang and related projects
+- Implement DevOps practices to improve workflow and efficiency
+- Design the database structure for mLang and related projects
+- Create and implement APIs for the mLang environment
+- Research and develop new features for mLang
+- Manage and maintain cloud servers
+- Enhance the backend and frontend of the current mLang platform
+- Debug of current projects
+- Oversee project management for tech projects
+- Plan for future development and growth of mLang
 
-Company Github: [@m-Chinese-Solution-Limited](https://github.com/m-Chinese-Solution-Limited)
+## Personal GitHub
+[@jasonfoknxu](https://github.com/jasonfoknxu)
 
-Personal Github: [@jasonfoknxu](https://github.com/jasonfoknxu)
+## Company GitHub
+[@mCSL-mLang](https://github.com/mCSL-mLang)
 
 > EdTech, e-learning platform, web app, VR, AR, AI
